@@ -111,3 +111,4 @@ Project Status
 Complete — with potential future improvements.
 
 This project represents an early Java programming project and was primarily created as a learning exercise.
+(Also, try to find the fun infinite collision easter egg I put in here :) )
